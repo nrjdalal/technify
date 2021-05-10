@@ -1,0 +1,22 @@
+{
+  "name": "technify",
+  "version": "1.0.2",
+  "description": "Run the following commands -",
+  "main": "dist/core/index",
+  "author": "Neeraj Dalal",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^15.0.2",
+    "@typescript-eslint/eslint-plugin": "^4.22.1",
+    "@typescript-eslint/parser": "^4.22.1",
+    "axios": "^0.21.1",
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
